@@ -22,7 +22,7 @@
 #define AUTO_TRIGGER 12*60*60*1000
 
 //trigger values
-#define AVERAGE 2672s
+#define AVERAGE 2672
 #define MIN_NONE (AVERAGE-156)
 #define MAX_NONE (AVERAGE+108)
 
